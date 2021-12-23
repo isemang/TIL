@@ -16,4 +16,4 @@
 - [아이템 42. 익명클래스와 람다](https://github.com/isemang/TIL/blob/main/Book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E/%5B2021.12.22%5D%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E%20-%20%EC%9D%B5%EB%AA%85%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EB%9E%8C%EB%8B%A4.md)
 
 ## 알고리즘(벨로그에 기재)
-- [카카오 [3차] 압축](https://velog.io/@fantastik/46)
+- [프로그래머스- [3차]압축](https://velog.io/@fantastik/46)
