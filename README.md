@@ -14,6 +14,7 @@
 ## JPA
 - [상속관계 매핑(@Inheritance, @DiscriminatorColumn)](https://github.com/isemang/TIL/blob/main/JPA/%5B2021.12.25%5D%20JPA%20-%20%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91(%EC%83%81%EC%86%8D%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91).md)
 - [공통 정보 매핑(@MappedSuperclass)](https://github.com/isemang/TIL/blob/main/JPA/%5B2021.12.26%5D%20JPA%20-%20%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91(%40MappedSuperClass).md)
+- [프록시와 연관관계 관리(프록시)](https://github.com/isemang/TIL/blob/main/JPA/%5B2021.12.29%5D%20JPA%20-%20%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC(%ED%94%84%EB%A1%9D%EC%8B%9C).md)
 
 ## Book
 ### 이펙티브 자바 3E
