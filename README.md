@@ -29,7 +29,7 @@
 - [아이템 44. 표준 함수형 인터페이스](https://github.com/isemang/TIL/blob/main/Book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E/%5B2021.12.30%5D%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E%20-%20%ED%91%9C%EC%A4%80%20%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 
 
-## 알고리즘(벨로그에 기재)
+## 알고리즘 문제풀이(벨로그에 기재)
 - [프로그래머스- [3차]압축](https://velog.io/@fantastik/46)
 - [프로그래머스- 불량 사용자](https://velog.io/@fantastik/47)
-
+- [프로그래머스- 보석 쇼핑](https://velog.io/@fantastik/48)
