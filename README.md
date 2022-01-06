@@ -33,3 +33,4 @@
 - [프로그래머스- [3차]압축](https://velog.io/@fantastik/46)
 - [프로그래머스- 불량 사용자](https://velog.io/@fantastik/47)
 - [프로그래머스- 보석 쇼핑](https://velog.io/@fantastik/48)
+- [백준- 2805. 나무 자르기](https://velog.io/@fantastik/49)
