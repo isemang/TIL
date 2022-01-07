@@ -28,6 +28,8 @@
 - [아이템 43. 람다와 메서드 참조](https://github.com/isemang/TIL/blob/main/Book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E/%5B2021.12.26%5D%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E%20-%20%EB%9E%8C%EB%8B%A4%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%B0%B8%EC%A1%B0.md)
 - [아이템 44. 표준 함수형 인터페이스](https://github.com/isemang/TIL/blob/main/Book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E/%5B2021.12.30%5D%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E%20-%20%ED%91%9C%EC%A4%80%20%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 
+## 알고리즘 관련 정리(문제풀이 아님)
+- [BFS 정리](https://github.com/isemang/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC/%5B2022.01.07%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC%20-%20BFS.md)
 
 ## 알고리즘 문제풀이(벨로그에 기재)
 - [프로그래머스- [3차]압축](https://velog.io/@fantastik/46)
