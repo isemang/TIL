@@ -25,6 +25,8 @@
 
 ## SQL
 - [NL 조인, Sort Merge 조인, Hash 조인](https://github.com/isemang/TIL/blob/main/SQL/%5B2022.01.11%5D%20SQL%20-%20NL%20%EC%A1%B0%EC%9D%B8%2C%20Sort%20Merge%20%EC%A1%B0%EC%9D%B8%2C%20Hash%20%EC%A1%B0%EC%9D%B8.md)
+- [SQL과 NoSQL의 차이 및 수직, 수평적 확장(Scaling)](https://github.com/isemang/TIL/blob/main/SQL/%5B2022.01.11%5D%20SQL%20-%20SQL%EA%B3%BC%20NoSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4%20%EB%B0%8F%20%ED%99%95%EC%9E%A5(Scaling)%20%EA%B0%9C%EB%85%90%20%EC%84%A4%EB%AA%85.md)
+
 ## Book
 ### 이펙티브 자바 3E
 - [아이템 42. 익명클래스와 람다](https://github.com/isemang/TIL/blob/main/Book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E/%5B2021.12.22%5D%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%203E%20-%20%EC%9D%B5%EB%AA%85%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EB%9E%8C%EB%8B%A4.md)
