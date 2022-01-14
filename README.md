@@ -29,6 +29,7 @@
 - [Data Integrity(무결성), Consistency(일관성), Concurrency(동시성)](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.12%5D%20DB%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1(Integrity)%2C%20%EC%9D%BC%EA%B4%80%EC%84%B1(Consistency)%2C%20%EB%8F%99%EC%8B%9C%EC%84%B1(Concurrency).md)
 - [옵티마이저(Optimizer): 규칙 기반, 비용 기반](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.12%5D%20DB%20-%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80(Optimizer):%20%EA%B7%9C%EC%B9%99%20%EA%B8%B0%EB%B0%98%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%2C%20%EB%B9%84%EC%9A%A9%20%EA%B8%B0%EB%B0%98%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80.md)
 - [데이터 무결성(Integrity)과 구현수단](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.13%5D%20DB%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1(Integrity)%EA%B3%BC%20%EA%B5%AC%ED%98%84%EC%88%98%EB%8B%A8.md)
+- [SQL튜닝과 오라클 힌트](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.13%5D%20DB%20-%20SQL%20%ED%8A%9C%EB%8B%9D:%20%EC%98%A4%EB%9D%BC%ED%81%B4%20%ED%9E%8C%ED%8A%B8.md}
 
 ## Book
 ### 이펙티브 자바 3E
