@@ -22,6 +22,7 @@
 - [스트림 API 정리 - 2. 연산구조와 생성](https://github.com/isemang/TIL/blob/main/Java/%5B2022.01.02%5D%20Learning%20JAVA%20-%20%EC%8A%A4%ED%8A%B8%EB%A6%BC:%202.%20%EC%97%B0%EC%82%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%83%9D%EC%84%B1.md)
 - [스트림 API 정리 - 3. 중간 연산 메서드](https://github.com/isemang/TIL/blob/main/Java/%5B2022.01.03%5D%20Learning%20JAVA%20-%20%EC%8A%A4%ED%8A%B8%EB%A6%BC:%203.%20%EC%A4%91%EA%B0%84%20%EC%97%B0%EC%82%B0%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 - [스트림 API 정리 - 4. 최종 연산 메서드](https://github.com/isemang/TIL/blob/main/Java/%5B2022.01.04%5D%20Learning%20JAVA%20-%20%EC%8A%A4%ED%8A%B8%EB%A6%BC:%204.%20%EC%B5%9C%EC%A2%85%20%EC%97%B0%EC%82%B0%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [GC의 작동 상황과 메모리 누수](https://github.com/isemang/TIL/blob/main/Java/%5B2022.01.15%5D%20Learning%20JAVA%20-%20GC%EC%9D%98%20%EC%9E%91%EB%8F%99%20%EC%83%81%ED%99%A9%EA%B3%BC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%88%84%EC%88%98.md)
 
 ## Database
 - [NL 조인, Sort Merge 조인, Hash 조인](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.11%5D%20DB%20-%20NL%20%EC%A1%B0%EC%9D%B8%2C%20Sort%20Merge%20%EC%A1%B0%EC%9D%B8%2C%20Hash%20%EC%A1%B0%EC%9D%B8.md)
