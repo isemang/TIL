@@ -16,6 +16,7 @@
 - [상속관계 매핑(@Inheritance, @DiscriminatorColumn)](https://github.com/isemang/TIL/blob/main/JPA/%5B2021.12.25%5D%20JPA%20-%20%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91(%EC%83%81%EC%86%8D%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91).md)
 - [공통 정보 매핑(@MappedSuperclass)](https://github.com/isemang/TIL/blob/main/JPA/%5B2021.12.26%5D%20JPA%20-%20%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91(%40MappedSuperClass).md)
 - [프록시와 연관관계 관리(프록시)](https://github.com/isemang/TIL/blob/main/JPA/%5B2021.12.29%5D%20JPA%20-%20%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC(%ED%94%84%EB%A1%9D%EC%8B%9C).md)
+- [엔티티 설계 시 주의점](https://github.com/isemang/TIL/blob/main/JPA/%5B2022.01.31%5D%20JPA%20-%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%84%A4%EA%B3%84%20%EC%8B%9C%20%EC%A3%BC%EC%9D%98%EC%A0%90.md)
 
 ## Java
 - [스트림 API 정리 - 1. 사용 이유와 기존 방식과의 차이](https://github.com/isemang/TIL/blob/main/Java/%5B2022.01.01%5D%20Learning%20JAVA%20-%20%EC%8A%A4%ED%8A%B8%EB%A6%BC:%201.%20%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EC%9C%A0,%20%EA%B8%B0%EC%A1%B4%20%EB%B0%A9%EC%8B%9D%EA%B3%BC%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
