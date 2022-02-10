@@ -28,6 +28,7 @@
 
 ## Spring
 - [Spring - IoC(제어의 역전)](https://github.com/isemang/TIL/blob/main/Spring/%5B2022.02.08%5D%20Spring%20-%20IoC(%EC%A0%9C%EC%96%B4%EC%9D%98%20%EC%97%AD%EC%A0%84).md)
+- [Spring - DI(의존성 주입)](https://github.com/isemang/TIL/blob/main/Spring/%5B2022.02.10%5D%20Spring%20-%20DI(%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85).md)
 
 ## Database
 - [NL 조인, Sort Merge 조인, Hash 조인](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.11%5D%20DB%20-%20NL%20%EC%A1%B0%EC%9D%B8%2C%20Sort%20Merge%20%EC%A1%B0%EC%9D%B8%2C%20Hash%20%EC%A1%B0%EC%9D%B8.md)
