@@ -62,3 +62,4 @@
 - [프로그래머스- k진수에서 소수 개수 구하기](https://velog.io/@fantastik/52)
 - [프로그래머스- 베스트앨범](https://velog.io/@fantastik/53)
 - [프로그래머스- N으로 표현 (1) DFS풀이](https://velog.io/@fantastik/54)
+- [백준 - 1010. 다리 놓기](https://velog.io/@fantastik/55)
