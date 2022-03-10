@@ -65,3 +65,4 @@
 - [백준 - 1010. 다리 놓기](https://velog.io/@fantastik/55)
 - [백준 - 9655. 돌 게임](https://velog.io/@fantastik/56)
 - [백준 - 1463. 1로 만들기](https://velog.io/@fantastik/57)
+- [백준 - 17626. Four Squares](https://velog.io/@fantastik/58)
