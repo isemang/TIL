@@ -66,3 +66,4 @@
 - [백준 - 9655. 돌 게임](https://velog.io/@fantastik/56)
 - [백준 - 1463. 1로 만들기](https://velog.io/@fantastik/57)
 - [백준 - 17626. Four Squares](https://velog.io/@fantastik/58)
+- [백준 - 1477. 휴게소 세우기](https://velog.io/@fantastik/59)
