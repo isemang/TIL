@@ -51,6 +51,7 @@
 
 ### 모던 자바 인 액션
 - [Chapter 4. 스트림 소개](https://github.com/isemang/TIL/blob/main/Book/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%5B2022.03.15%5D%20Chapter%204.%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%86%8C%EA%B0%9C.md)
+- [Chapter 5. 스트림 활용](https://github.com/isemang/TIL/blob/main/Book/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%5B2022.03.15%5D%20Chapter%205.%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%99%9C%EC%9A%A9.md)
 
 ## 알고리즘 관련 정리(문제풀이 아님)
 - [BFS 정리](https://github.com/isemang/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC/%5B2022.01.07%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC%20-%20BFS.md)
