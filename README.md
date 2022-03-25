@@ -74,3 +74,4 @@
 - [백준 - 1463. 1로 만들기](https://velog.io/@fantastik/57)
 - [백준 - 17626. Four Squares](https://velog.io/@fantastik/58)
 - [백준 - 1477. 휴게소 세우기](https://velog.io/@fantastik/59)
+- [백준 - 1987. 알파벳](https://velog.io/@fantastik/60)
