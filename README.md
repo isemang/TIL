@@ -34,7 +34,8 @@
 ### Spring TDD
 - [Mockito - 기본 설명, 메서드 정리](https://github.com/isemang/TIL/blob/main/Spring/%5B2022.02.25%5D%20Spring%20TDD%20-%20mockito%EB%9E%80%3F%20stub%2C%20mock%2C%20spy%20%EC%A0%95%EB%A6%AC.md)
 
-## Database
+## CS
+### Database
 - [NL 조인, Sort Merge 조인, Hash 조인](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.11%5D%20DB%20-%20NL%20%EC%A1%B0%EC%9D%B8%2C%20Sort%20Merge%20%EC%A1%B0%EC%9D%B8%2C%20Hash%20%EC%A1%B0%EC%9D%B8.md)
 - [SQL과 NoSQL의 차이 및 수직, 수평적 확장(Scaling)](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.11%5D%20DB%20-%20SQL%EA%B3%BC%20NoSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4%20%EB%B0%8F%20%ED%99%95%EC%9E%A5(Scaling)%20%EA%B0%9C%EB%85%90%20%EC%84%A4%EB%AA%85.md)
 - [Data Integrity(무결성), Consistency(일관성), Concurrency(동시성)](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.12%5D%20DB%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1(Integrity)%2C%20%EC%9D%BC%EA%B4%80%EC%84%B1(Consistency)%2C%20%EB%8F%99%EC%8B%9C%EC%84%B1(Concurrency).md)
@@ -42,6 +43,9 @@
 - [데이터 무결성(Integrity)과 구현수단](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.13%5D%20DB%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1(Integrity)%EA%B3%BC%20%EA%B5%AC%ED%98%84%EC%88%98%EB%8B%A8.md)
 - [SQL튜닝과 오라클 힌트](https://github.com/isemang/TIL/blob/main/Database/%5B2022.01.13%5D%20DB%20-%20SQL%20%ED%8A%9C%EB%8B%9D:%20%EC%98%A4%EB%9D%BC%ED%81%B4%20%ED%9E%8C%ED%8A%B8.md)
 - [인덱스(Index)의 종류와 특징](https://github.com/isemang/TIL/blob/main/Database/%5B2021.01.14%5D%20DB%20-%20%EC%9D%B8%EB%8D%B1%EC%8A%A4(Index)%EC%9D%98%20%EC%A2%85%EB%A5%98%EC%99%80%20%ED%8A%B9%EC%A7%95.md)
+
+### Network
+- [프록시, 포워드 프록시, 리버스 프록시](https://velog.io/@fantastik/61)
 
 ## Book
 ### 이펙티브 자바 3E
