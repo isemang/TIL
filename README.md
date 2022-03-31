@@ -30,6 +30,7 @@
 ### Spring 기본 개념
 - [Spring - IoC(제어의 역전)](https://github.com/isemang/TIL/blob/main/Spring/%5B2022.02.08%5D%20Spring%20-%20IoC(%EC%A0%9C%EC%96%B4%EC%9D%98%20%EC%97%AD%EC%A0%84).md)
 - [Spring - DI(의존성 주입)](https://github.com/isemang/TIL/blob/main/Spring/%5B2022.02.10%5D%20Spring%20-%20DI(%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85).md)
+- [Spring - AOP(관점 지향 프로그래밍)](https://velog.io/@fantastik/63)
 
 ### Spring TDD
 - [Mockito - 기본 설명, 메서드 정리](https://github.com/isemang/TIL/blob/main/Spring/%5B2022.02.25%5D%20Spring%20TDD%20-%20mockito%EB%9E%80%3F%20stub%2C%20mock%2C%20spy%20%EC%A0%95%EB%A6%AC.md)
