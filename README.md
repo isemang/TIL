@@ -63,6 +63,7 @@
 
 ### Real MySQL
 - [3장. 사용자 및 권한](https://github.com/isemang/TIL/blob/main/Book/Real%20MySQL/%5B2022.04.26%5D%203%EC%9E%A5.%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%B0%8F%20%EA%B6%8C%ED%95%9C.md)
+- [4장. 아키텍처](https://github.com/isemang/TIL/blob/main/Book/Real%20MySQL/%5B2022.04.29%5D%204%EC%9E%A5.%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
 
 ## 알고리즘 문제풀이(벨로그에 기재)
 - [프로그래머스- [3차]압축](https://velog.io/@fantastik/46)
