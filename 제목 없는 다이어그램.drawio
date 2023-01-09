@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T07:44:17.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eRpYGv_Kc5o9E_xVNCUM" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T08:10:58.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pfNT6TwTTqEZufYMABKW" version="20.8.3" type="github">
   <diagram id="MqFvvl8vXZ765toB649_" name="페이지-1">
-    <mxGraphModel dx="2332" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2914" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,6 +499,12 @@
             <mxRectangle width="179" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s24xk4Bd5WTAQTk68c9q-177" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s24xk4Bd5WTAQTk68c9q-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="410" as="sourcePoint" />
+            <mxPoint x="237" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s24xk4Bd5WTAQTk68c9q-159" value="다음 납부 예상내역" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="414" width="230" height="150" as="geometry" />
         </mxCell>
@@ -552,6 +558,12 @@
         <mxCell id="s24xk4Bd5WTAQTk68c9q-174" value="납부 예상 일자" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="s24xk4Bd5WTAQTk68c9q-172">
           <mxGeometry x="51" width="179" height="30" as="geometry">
             <mxRectangle width="179" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s24xk4Bd5WTAQTk68c9q-176" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;entryX=0.838;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="s24xk4Bd5WTAQTk68c9q-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="93" y="360" as="sourcePoint" />
+            <mxPoint x="90" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
